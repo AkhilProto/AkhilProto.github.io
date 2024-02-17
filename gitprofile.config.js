@@ -53,8 +53,14 @@ const config = {
   ], */
   education: [
     {
+      institution: 'GMR Chinmaya Vidyalaya',
+      degree: 'Grade 1-8',
+      from: '2012',
+      to: '2021',
+    },
+    {
       institution: 'Delhi Public School, Nadergul',
-      degree: 'Grade 9',
+      degree: 'Grade 10',
       from: '2022',
       to: 'Present',
     }
@@ -142,7 +148,7 @@ const config = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️. Don't think I forgot to remove this one while setting up.`,
+    >GitProfile</a> and ❤️.`,
 };
 
 export default config;
